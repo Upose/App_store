@@ -10,7 +10,7 @@
     </p>
     <h3>Installed CLI Plugins</h3>
     <div>
-      <p>this is a </p>
+      <p>this is a 崭新的开始</p>
     </div>
   </div>
 </template>
